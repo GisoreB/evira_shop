@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "206578994541",
+    "project_id": "evira-shop-38df2",
+    "storage_bucket": "evira-shop-38df2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206578994541:android:16a1c0d1adcfaf54249e64",
+        "android_client_info": {
+          "package_name": "com.kazungudev.evira_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZjVByi62-B9BXwXFJ36Lq5s6RVsxKPp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
